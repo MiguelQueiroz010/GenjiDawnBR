@@ -25,33 +25,31 @@ REVISÃO: 99% Finalizando a revisão Final<br/>
 
 
 # Versão Atual: Polimento e Revisão
+<br/>
+*Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>
 
-**Revisão e Polimento [ATUAL]**
+*Atualização de Nomes:<br/>
+Cidade Demoníaca - Cidade Amaldiçoada<br/>
+Despertar dos Samurai - Alvorecer dos Samurais<br/>
+Feitiço do Yosegane - Uso do Yosegane<br/>
+Shoki - Repressor<br/>
+Kamui Múltiplo - Kamui Duplo(triplo desbloqueado em Hiraizumi)<br/>
+Clube(Benkei) - Clava<br/>
+Espada do Dragão de Gelo(String além da UI) - Corrigido<br/>
+Encanto - Talismã<br/>
+Mestre Hogen - Senhor Hogen<br/>
+Moritoshi "Shoki" Taira - "Demônio Repressor" Moritoshi Taira<br/>
+Mt.Kurama - Monte Kurama<br/>
+Monast. Tamayoribito - Monastério Tamayoribito<br/>
+Mercado = Estrada Princial(Main Road)<br/>
 
-*Para tal, fiz uma ferramenta para os textos com troca de acentos por código.
+*Muitas texturas renovadas!<br/>
 
-*Atualização de Nomes:
-Cidade Demoníaca - Cidade Amaldiçoada
-Despertar dos Samurai - Alvorecer dos Samurais
-Feitiço do Yosegane - Uso do Yosegane
-Shoki - Repressor
-Kamui Múltiplo - Kamui Duplo(triplo desbloqueado em Hiraizumi)
-Clube(Benkei) - Clava
-Espada do Dragão de Gelo(String além da UI) - Corrigido
-Encanto - Talismã
-Mestre Hogen - Senhor Hogen
-Moritoshi "Shoki" Taira - "Demônio Repressor" Moritoshi Taira
-Mt.Kurama - Monte Kurama
-Monast. Tamayoribito - Monastério Tamayoribito
-Mercado = Estrada Princial(Main Road)
-
-*Muitas texturas renovadas!
-
-*Outros:
-Tradução dos créditos do jogo
-Correção dos acentos da fonte da versão USA(SCUS)
-Textos revisados, re-traduzidos com ajuda do google tradutor
-Alta revisão de textos de interação com Npcs e Locais/Itens
+*Outros:<br/>
+Tradução dos créditos do jogo<br/>
+Correção dos acentos da fonte da versão USA(SCUS)<br/>
+Textos revisados, re-traduzidos com ajuda do google tradutor<br/>
+Alta revisão de textos de interação com Npcs e Locais/Itens<br/>
 
 **Algumas texturas traduzidas:**
 

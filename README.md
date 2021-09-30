@@ -4,7 +4,7 @@ Patch de tradução para o jogo e modificações.
 
 ## TRADUÇÃO
 
-![](genji br capa.jpg)
+![](genji_br_capa.jpg)
 
 TEXTOS: 100% <br/>
 DIÁLOGOS(NPCS E ETC): 100% <br/>

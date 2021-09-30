@@ -19,11 +19,10 @@ REVISÃO: 99% Finalizando a revisão Final<br/>
 ### *Bit.Raiden e Jeimisson<br/>
 ### *HNNEWGAMES [Lógica dos Ponteiros]<br/>
 ### *Dark Lord [Ajuda com a ISO]<br/>
-![](/image/Parceria.png)
 
 # Versão Atual: Polimento e Revisão
 <br/>
-*Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>*<br/>
+*Para tal, fiz uma ferramenta para os textos com troca de acentos por código[Genji Text Tool].<br/><br/>
 
 **Atualização de Nomes:**<br/><br/>
 Cidade Demoníaca - Cidade Amaldiçoada<br/>
@@ -46,6 +45,10 @@ Textos revisados, re-traduzidos com ajuda do google tradutor<br/>
 Alta revisão de textos de interação com Npcs e Locais/Itens<br/><br/>
 **Muitas texturas renovadas:**<br/><br/>
 
+![](/image/option_if.png)
+![](/image/c1title_w.png)
+![](/image/c2title_w.png)
+![](/image/c3title_w.png)
 
 # Nos ajude!
 

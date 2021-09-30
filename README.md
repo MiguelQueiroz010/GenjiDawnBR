@@ -25,7 +25,8 @@ REVISÃO: 99% Finalizando a revisão Final<br/>
 # Versão Atual: Polimento e Revisão
 <br/>
 *Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>
-<br/>
+
+
 **Atualização de Nomes:**<br/>
 <br/>
 Cidade Demoníaca - Cidade Amaldiçoada<br/>

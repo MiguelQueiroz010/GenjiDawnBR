@@ -18,16 +18,14 @@ REVISÃO: 99% Finalizando a revisão Final<br/>
 
 ### *Bit.Raiden e Jeimisson<br/>
 ### *HNNEWGAMES [Lógica dos Ponteiros]<br/>
-### *Dark Lord [Ajuda com a ISO]<br/>
-*<br/>
+### *Dark Lord [Ajuda com a ISO]<br/><br/>
 ![](/image/Parceria.png)
 
 # Versão Atual: Polimento e Revisão
 <br/>
 *Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>*<br/>
 
-**Atualização de Nomes:**<br/>
-<br/>
+**Atualização de Nomes:**<br/><br/>
 Cidade Demoníaca - Cidade Amaldiçoada<br/>
 Despertar dos Samurai - Alvorecer dos Samurais<br/>
 Feitiço do Yosegane - Uso do Yosegane<br/>
@@ -42,7 +40,7 @@ Mt.Kurama - Monte Kurama<br/>
 Monast. Tamayoribito - Monastério Tamayoribito<br/>
 Mercado = Estrada Princial(Main Road)<br/><br/>
 **Muitas texturas renovadas!**<br/><br/>
-**Outros:**<br/>
+**Outros:**<br/><br/>
 Tradução dos créditos do jogo<br/>
 Correção dos acentos da fonte da versão USA(SCUS)<br/>
 Textos revisados, re-traduzidos com ajuda do google tradutor<br/>

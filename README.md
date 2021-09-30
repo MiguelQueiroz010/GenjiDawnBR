@@ -24,8 +24,7 @@ REVISÃO: 99% Finalizando a revisão Final<br/>
 
 # Versão Atual: Polimento e Revisão
 <br/>
-*Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>
-
+*Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>*<br/>
 
 **Atualização de Nomes:**<br/>
 <br/>
@@ -41,16 +40,13 @@ Mestre Hogen - Senhor Hogen<br/>
 Moritoshi "Shoki" Taira - "Demônio Repressor" Moritoshi Taira<br/>
 Mt.Kurama - Monte Kurama<br/>
 Monast. Tamayoribito - Monastério Tamayoribito<br/>
-Mercado = Estrada Princial(Main Road)<br/>
-*<br/>
-**Muitas texturas renovadas!**<br/>
-*<br/>
+Mercado = Estrada Princial(Main Road)<br/><br/>
+**Muitas texturas renovadas!**<br/><br/>
 **Outros:**<br/>
 Tradução dos créditos do jogo<br/>
 Correção dos acentos da fonte da versão USA(SCUS)<br/>
 Textos revisados, re-traduzidos com ajuda do google tradutor<br/>
-Alta revisão de textos de interação com Npcs e Locais/Itens<br/>
-*<br/>
+Alta revisão de textos de interação com Npcs e Locais/Itens<br/><br/>
 **Algumas texturas traduzidas:**<br/>
 
 

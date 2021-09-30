@@ -27,8 +27,9 @@ REVISÃO: 99% Finalizando a revisão Final<br/>
 # Versão Atual: Polimento e Revisão
 <br/>
 *Para tal, fiz uma ferramenta para os textos com troca de acentos por código.<br/>
-
-*Atualização de Nomes:<br/>
+<br/>
+**Atualização de Nomes:**<br/>
+<br/>
 Cidade Demoníaca - Cidade Amaldiçoada<br/>
 Despertar dos Samurai - Alvorecer dos Samurais<br/>
 Feitiço do Yosegane - Uso do Yosegane<br/>
@@ -43,22 +44,16 @@ Mt.Kurama - Monte Kurama<br/>
 Monast. Tamayoribito - Monastério Tamayoribito<br/>
 Mercado = Estrada Princial(Main Road)<br/>
 
-*Muitas texturas renovadas!<br/>
+**Muitas texturas renovadas!**<br/>
 
-*Outros:<br/>
+**Outros:**<br/>
 Tradução dos créditos do jogo<br/>
 Correção dos acentos da fonte da versão USA(SCUS)<br/>
 Textos revisados, re-traduzidos com ajuda do google tradutor<br/>
 Alta revisão de textos de interação com Npcs e Locais/Itens<br/>
 
-**Algumas texturas traduzidas:**
+**Algumas texturas traduzidas:**<br/>
 
-
-**Versão 2.0**
-
-*Texturas de Kamui Rank<br/>
-*Textura do Menu de Acessórios(Accesorios -> Acessórios)<br/>
-*Título traduzido no plural -> Despertar.. Samurais-> Samurai<br/>
 
 # Nos ajude!
 

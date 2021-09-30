@@ -1,5 +1,5 @@
 ![](/image/icon.png)
-# Genji Dawn of The Samurai [PS2]
+# Genji Alvorecer dos Samurais [PS2]
 Patch de tradução para o jogo e modificações.
 
 ## TRADUÇÃO
